@@ -1,0 +1,133 @@
+{
+    "quiz1" :{
+                "question": "What is the last color you had on your nails?",
+                "totalQuestion": 5,
+                "quesImage": "lib/img/1.jpg",
+                "options": ["Red:1", "Black:2", "Pink:3", "Blue:4", "French manicure/ Other/ I don’t usually paint my nails:5"]
+    },
+    "quiz2" :{
+        "question": "Are you painting your nails for a specific special event?",
+        "totalQuestion": 4,
+        "quesImage": "lib/img/2.jpg",
+        "options": ["Yes, a party (formal such as a wedding).:1","Yes, going on a night out or to a party (informal such as a house party or gathering of friends). :2", "Yes, going on a date.:3", "No, I just want my hands to look pretty.:4"]
+    },
+    "quiz3" :{
+        "question": "True or false: I always usually wear the same color.",
+        "totalQuestion": 2,
+        "quesImage": "lib/img/3.jpeg",
+        "options": ["True:1","False:2"]
+    },
+    "quiz4" :{
+        "question": "True or false: I want to go for something bold and different that I wouldn’t usually wear.",
+        "totalQuestion": 2,
+        "quesImage": "lib/img/4.jpg",
+        "options": ["True:1","False:2"]
+    },
+    "quiz5" :{
+        "question": "Do you follow the latest beauty trends? ",
+        "totalQuestion": 2,
+        "quesImage": "lib/img/5.jpg",
+        "options": ["True:1","False:2"]
+    },
+    "quiz6" :{
+        "question": "What is your signature style?",
+        "totalQuestion": 5,
+        "quesImage": "lib/img/6.jfif",
+        "options": ["Classy :1","Glamorous :2","Trendy, high fashion  :3","Boho :4","I don’t really have one style  :5"]
+    },
+    "quiz7" :{
+        "question": "What is your favorite group of colors?",
+        "totalQuestion": 4,
+        "quesImage": "lib/img/7.jpg",
+        "options": ["Reds, purples and pinks:1","Dark colors such as black and grey:2","Blues and greens:3","Bright shades such as yellow and orange:4"]
+    },
+    "quiz8" :{
+        "question": "Do you like clashing colours or patterns on your nails?",
+        "totalQuestion": 2,
+        "quesImage": "lib/img/8.jpg",
+        "options": ["True:1","False:2"]
+    },
+    "quiz9" :{
+        "question": "What type of clothes will you be wearing for the next few days?",
+        "totalQuestion": 4,
+        "quesImage": "lib/img/9.jpg",
+        "options": ["Dresses and skirts:1","Suits or formal work gear:2","Casual jeans and t-shirts:3","A mix of everything:4"]
+    },
+    "quiz10" :{
+        "question": "Do you like to have your nails match a part of your outfit or your accessories?",
+        "totalQuestion": 2,
+        "quesImage": "lib/img/10.jpg",
+        "options": ["True:1","False:2"]
+    },
+    "Result" :{
+        "res10": "Personality is, in fact, only a free being emphasizing and recognizing itself as such. Every man makes his own personality, he is to that extent his own creator.",
+        "res11": "The really valuable thing in the pageant of human life seems to me not the State but the creative, sentient individual, the personality; it alone creates the noble and the sublime, while the herd as such remains dull in thought and dull in feeling.",
+        "res12": "For the adult, all the world is a stage and the personality is the mask one wears to play the assigned role.",
+        "res13": "The largest part of what we call 'personality' is determined by how we've opted to defend ourselves against anxiety and sadness.",
+        "res14": "Personality is, in fact, only a free being emphasizing and recognizing itself as such. Every man makes his own personality, he is to that extent his own creator.",
+        "res15": "The really valuable thing in the pageant of human life seems to me not the State but the creative, sentient individual, the personality; it alone creates the noble and the sublime, while the herd as such remains dull in thought and dull in feeling.",
+        "res16": "For the adult, all the world is a stage and the personality is the mask one wears to play the assigned role.",
+        "res17": "The largest part of what we call 'personality' is determined by how we've opted to defend ourselves against anxiety and sadness.",
+        "res18": "Personality is, in fact, only a free being emphasizing and recognizing itself as such. Every man makes his own personality, he is to that extent his own creator.",
+        "res19": "The really valuable thing in the pageant of human life seems to me not the State but the creative, sentient individual, the personality; it alone creates the noble and the sublime, while the herd as such remains dull in thought and dull in feeling.",
+        "res20": "For the adult, all the world is a stage and the personality is the mask one wears to play the assigned role.",
+        "res21": "The largest part of what we call 'personality' is determined by how we've opted to defend ourselves against anxiety and sadness.",
+        "res22": "Personality is, in fact, only a free being emphasizing and recognizing itself as such. Every man makes his own personality, he is to that extent his own creator.",
+        "res23": "The really valuable thing in the pageant of human life seems to me not the State but the creative, sentient individual, the personality; it alone creates the noble and the sublime, while the herd as such remains dull in thought and dull in feeling.",
+        "res24": "For the adult, all the world is a stage and the personality is the mask one wears to play the assigned role.",
+        "res25": "The largest part of what we call 'personality' is determined by how we've opted to defend ourselves against anxiety and sadness.",
+        "res26": "Personality is, in fact, only a free being emphasizing and recognizing itself as such. Every man makes his own personality, he is to that extent his own creator.",
+        "res27": "The really valuable thing in the pageant of human life seems to me not the State but the creative, sentient individual, the personality; it alone creates the noble and the sublime, while the herd as such remains dull in thought and dull in feeling.",
+        "res28": "For the adult, all the world is a stage and the personality is the mask one wears to play the assigned role.",
+        "res29": "The largest part of what we call 'personality' is determined by how we've opted to defend ourselves against anxiety and sadness.",
+        "res30": "Personality is, in fact, only a free being emphasizing and recognizing itself as such. Every man makes his own personality, he is to that extent his own creator.",
+        "res31": "The really valuable thing in the pageant of human life seems to me not the State but the creative, sentient individual, the personality; it alone creates the noble and the sublime, while the herd as such remains dull in thought and dull in feeling.",
+        "res32": "For the adult, all the world is a stage and the personality is the mask one wears to play the assigned role.",
+        "resDes10": "You got : Result 1",
+        "resDes11": "You got : Result 2",
+        "resDes12": "You got : Result 3",
+        "resDes13": "You got : Result 4",
+        "resDes14": "You got : Result 5",
+        "resDes15": "You got : Result 6",
+        "resDes16": "You got : Result 7",
+        "resDes17": "You got : Result 8",
+        "resDes18": "You got : Result 9",
+        "resDes19": "You got : Result 10",
+        "resDes20": "You got : Result 11",
+        "resDes21": "You got : Result 12",
+        "resDes22": "You got : Result 13",
+        "resDes23": "You got : Result 14",
+        "resDes24": "You got : Result 15",
+        "resDes25": "You got : Result 16",
+        "resDes26": "You got : Result 17",
+        "resDes27": "You got : Result 18",
+        "resDes28": "You got : Result 19",
+        "resDes29": "You got : Result 20",
+        "resDes30": "You got : Result 21",
+        "resDes31": "You got : Result 22",
+        "resDes32": "You got : Result 23",
+        "resImage10": "lib/img/ans2.jpg",
+        "resImage11": "lib/img/ans1.jpg",
+        "resImage12": "lib/img/ans2.jpg",
+        "resImage13": "lib/img/ans1.jpg",
+        "resImage14": "lib/img/ans2.jpg",
+        "resImage15": "lib/img/ans1.jpg",
+        "resImage16": "lib/img/ans2.jpg",
+        "resImage17": "lib/img/ans1.jpg",
+        "resImage18": "lib/img/ans2.jpg",
+        "resImage19": "lib/img/ans1.jpg",
+        "resImage20": "lib/img/ans2.jpg",
+        "resImage21": "lib/img/ans1.jpg",
+        "resImage22": "lib/img/ans2.jpg",
+        "resImage23": "lib/img/ans1.jpg",
+        "resImage24": "lib/img/ans2.jpg",
+        "resImage25": "lib/img/ans1.jpg",
+        "resImage26": "lib/img/ans2.jpg",
+        "resImage27": "lib/img/ans1.jpg",
+        "resImage28": "lib/img/ans2.jpg",
+        "resImage29": "lib/img/ans1.jpg",
+        "resImage30": "lib/img/ans2.jpg",
+        "resImage31": "lib/img/ans1.jpg",
+        "resImage32": "lib/img/ans2.jpg"
+    }
+}
